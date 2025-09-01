@@ -1,1 +1,20 @@
 # litchi_HSI_reconstructed
+1)Litchi_fruit
+1.1_train_data
+通过网盘分享的文件：train_data
+链接: https://pan.baidu.com/s/1mgTv8fYPffi0XGgCM1Z8EQ 提取码: 1234 
+--来自百度网盘超级会员v6的分享
+44.16G
+
+1.2_result_origin
+通过网盘分享的文件：result_origin
+链接: https://pan.baidu.com/s/13uSvk5TLYUlnuIOOghOPjA 提取码: 1234 
+--来自百度网盘超级会员v6的分享
+18.98G
+
+1.3_result_reconstructed
+通过网盘分享的文件：result_reconstructed
+链接: https://pan.baidu.com/s/1soEnhA0ptn-I6JWUMjnSiw 提取码: 1234 
+--来自百度网盘超级会员v6的分享
+83.48G
+
